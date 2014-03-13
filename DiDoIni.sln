@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DiDoIni", "DiDoIni\DiDoIni.vcproj", "{1F17A33E-2225-4805-B88B-3C588EB855AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test_DiDoIni", "Test_DiDoIni\Test_DiDoIni.vcproj", "{071891B3-17B2-4340-A34B-7317CBFBC7BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F17A33E-2225-4805-B88B-3C588EB855AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F17A33E-2225-4805-B88B-3C588EB855AC}.Debug|Win32.Build.0 = Debug|Win32
+		{1F17A33E-2225-4805-B88B-3C588EB855AC}.Release|Win32.ActiveCfg = Release|Win32
+		{1F17A33E-2225-4805-B88B-3C588EB855AC}.Release|Win32.Build.0 = Release|Win32
+		{071891B3-17B2-4340-A34B-7317CBFBC7BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{071891B3-17B2-4340-A34B-7317CBFBC7BA}.Debug|Win32.Build.0 = Debug|Win32
+		{071891B3-17B2-4340-A34B-7317CBFBC7BA}.Release|Win32.ActiveCfg = Release|Win32
+		{071891B3-17B2-4340-A34B-7317CBFBC7BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
